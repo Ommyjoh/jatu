@@ -12,7 +12,7 @@ body{
     overflow: hidden;
     width: 100%;
     height: 25px;
-    background-color: #015236;
+    background-color: #1891e2;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -22,7 +22,7 @@ body{
     color: #ffffff;
 }
 .top a{
-    color: #D96D1C;
+    color: #ffffff;
     text-decoration: none;
     font-size: 13px;
 }
@@ -31,7 +31,7 @@ body{
     align-items: center;
 }
 .social p{
-    color: #D96D1C;
+    color: #fafafa;
     margin-right: 20px;
     font-weight: 400;
     font-size: 13px;
@@ -60,7 +60,7 @@ body{
 nav{
     width: 100%;
     height: 65px;
-    background-color: #D96D1C;
+    background-color: #28145e;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -77,11 +77,11 @@ nav .logo img{
     margin-right: 8px;
 }
 nav .logo h2{
-    color: #015236;
+    color: #ffffff;
     font-size: 25px;
 }
 nav .openMenu{
-    color: #015236;
+    color: #fafcfd;
     font-size: 20px;
     display: none;
     cursor: pointer;
@@ -93,7 +93,7 @@ nav .mainMenu{
     margin-right: 30px;
 }
 nav .mainMenu li a{
-    color: #E6FFF6;
+    color: #111312;
     font-family: 'Times New Roman', Times, serif;
     text-decoration: none;
     font-size: 28px;
@@ -103,7 +103,7 @@ nav .mainMenu li a{
     cursor: pointer;
 }
 nav .mainMenu li a:hover{
-    color: #D96D1C;
+    color: #060a0c;
     background-color: #015236;
     transition: ease-in 0.4s;
 }
@@ -113,8 +113,8 @@ nav .mainMenu li a:hover{
     position: fixed;
 }
 #active{
-    color: #D96D1C;
-    background-color: #015236;
+    color: #ffffff;
+    background-color: #1891e2;
 }
 #active:hover{
     color: #E6FFF6;
@@ -145,13 +145,13 @@ section .mySlides{
     text-transform: uppercase;
     font-size: 28px;
     font-weight: 600;
-    color: #015236;
+    color: #28145e;
     margin-bottom: 20px;
 }
 .sectionA .line{
     width: 140px;
     height: 3px;
-    background-color: #D96D1C;
+    background-color: #1891e2;
     margin-bottom: 4px;
 }
 .sectionA p{
@@ -171,7 +171,7 @@ section .mySlides{
     margin-left: 30px;
     margin-bottom: 10px;
     text-transform: capitalize;
-    color: #015236;
+    color: #28145e;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 #playstore{
