@@ -127,7 +127,7 @@ nav .mainMenu .closeMenu, .icons i{
     display: none;
 }
 section{
-    background-color: #FCF1E8;
+    background-color: #eaf9ff;
 }
 section .mySlides{
     display: none;
@@ -246,7 +246,7 @@ section .mySlides{
     margin-right: 15px;
   }
   .appA h3{
-      color: #015236;
+      color: #28145e;
       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
       font-weight: 600;
       margin-bottom: 20px;
@@ -285,7 +285,7 @@ section .mySlides{
 }
 .offersA h1 small{
     text-transform: capitalize;
-    color: #D96D1C;
+    color: #1DA1F2;
     font-size: 30px;
     font-weight: 600;
     line-height: 3px;
@@ -305,7 +305,7 @@ section .mySlides{
       text-align: center;
       align-items: center;
       width: 310px;
-      border: 1px solid #D96D1C;
+      border: 1px solid #1DA1F2;
       background-color: #E6FFF6;
       margin-right: 10px;
   }
@@ -324,7 +324,7 @@ section .mySlides{
   }
   .serviceA h3{
       margin-top: 20px;
-      color: #D96D1C;
+      color: #1DA1F2;
       font-size: 25px;
   }
   .serviceA p{
@@ -339,7 +339,7 @@ section .mySlides{
     color: #E6FFF6;
     text-decoration: none;
     text-transform: capitalize;
-    background-color: #D96D1C;
+    background-color: #1DA1F2;
     box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.5);
     font-size: 15px;
     margin-bottom: 20px;
@@ -348,8 +348,8 @@ section .mySlides{
 .serviceA a:hover{
     transform: rotate(360deg);
     background-color: #E6FFF6;
-    border: #D96D1C solid 2px;
-    color: #D96D1C;
+    border: #1DA1F2 solid 2px;
+    color: #1DA1F2;
     font-size: 15px;
     padding: 12px 15px;
 
@@ -362,7 +362,7 @@ section .mySlides{
     padding-top: 20px;
 }
 .aboutUs h1{
-    color: #015236;
+    color: #28145e;
     font-size: 50px;
     font-weight: 500;
 }
@@ -381,31 +381,31 @@ section .mySlides{
     padding: 10px 15px;
 }
 .aboutA .jenga h3{
-    color: #D96D1C;
+    color: #1DA1F2;
     font-size: 20px;
     margin-bottom: 10px;
     font-weight: 500;
 }
 .aboutA .jenga p{
-    color: #015236;
+    color: #28145e;
     font-size: 15px;
     margin-bottom: 10px;
 }
 .aboutA .vision{
     padding: 10px 15px;
-    border: 1px solid #D96D1C;
+    border: 1px solid #1DA1F2;
     margin-top: 10px;
     border-radius: 10px;
     width: 500px;
 }
 .aboutA .vision h3{
-    color: #D96D1C;
+    color: #1DA1F2;
     font-size: 20px;
     margin-bottom: 10px;
     font-weight: 500;
 }
 .aboutA .vision p{
-    color: #015236;
+    color: #28145e;
     font-size: 15px;
     margin-bottom: 10px;
 }
@@ -461,7 +461,7 @@ section .mySlides{
     padding: 30px 0px;
 }
 .news h1{
-    color: #015236;
+    color: #28145e;
     font-size: 40px;
     margin-bottom: 30px;
     font-weight: 500;
@@ -470,17 +470,17 @@ section .mySlides{
     margin-top: 30px;
     color: #E6FFF6;
     padding:10px 15px;
-    background-color: #D96D1C;
+    background-color: #1DA1F2;
     text-decoration: none;
     text-transform: capitalize;
     font-size: 20px;
 }
 .news a:hover{
-    color: #015236;
+    color: #28145e;
     padding: 12px 18px;
     background-color: #FCF1E8;
     font-size: 22px;
-    border: 2px solid #D96D1C;
+    border: 2px solid #1DA1F2;
     border-radius: 10px;
 }
 .news_content{
@@ -499,7 +499,7 @@ section .mySlides{
     height:360px;
     display: flex;
     justify-content: center;
-    background-color: #D96D1C;
+    background-color: #1DA1F2;
     margin: 0px 5px;
 }
 .sideA{
@@ -519,7 +519,7 @@ section .mySlides{
     flex-direction: column;
 }
 .sideB h3{
-    color: #015236;
+    color: #28145e;
     font-weight: 600;
     margin-top: 10px;
 }
@@ -531,11 +531,11 @@ section .mySlides{
 }
 .sideB a{
     margin-top: 30px;
-    color: #015236;
-    border: #015236 1.5px solid;
+    color: #28145e;
+    border: #28145e 1.5px solid;
     border-radius: 10px;
     padding:10px 15px;
-    background-color: #D96D1C;
+    background-color: #1DA1F2;
     text-decoration: none;
     text-transform: capitalize;
     font-size: 18px;
@@ -544,7 +544,7 @@ section .mySlides{
     color: #E6FFF6;
     border: unset;
     padding:10px 15px;
-    background-color:#015236;
+    background-color:#28145e;
     text-decoration: none;
     text-transform: capitalize;
     font-size: 18px;
@@ -567,7 +567,7 @@ section .mySlides{
 }
 .text input{
     width: 100%;
-    border: 1px solid #D96D1C;
+    border: 1px solid #1DA1F2;
     outline: none;
     height: 50px;
     margin-bottom: 16px;
@@ -583,7 +583,7 @@ section .mySlides{
 .text textarea{
     width: 100%;
     padding: 0px 20px;
-    border: 1px solid #D96D1C;
+    border: 1px solid #1DA1F2;
     outline: none;
     font-size: 18px;
     margin-bottom: 20px;
@@ -591,7 +591,7 @@ section .mySlides{
 }
 .text label{
     font-size: 23px;
-    color: #015236;
+    color: #28145e;
     font-weight: 500;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -601,12 +601,12 @@ section .mySlides{
     border: unset;
     height: 50px;
     font-size: 20px;
-    background-color: #015236;
+    background-color: #28145e;
     color: #E6FFF6;
     cursor: pointer;
 }
 .text input[type=submit]:hover{
-    background-color:  #017e52;
+    background-color:  #28145e;
 }
 .art{
     width: 60%;
@@ -624,7 +624,7 @@ footer{
     width: 100%;
     display: flex;
     flex-direction: column;
-    background-color: #D96D1C;
+    background-color: #1DA1F2;
     padding: 20px 30px;
 }
 footer .footerA{
@@ -640,7 +640,7 @@ footer .footerA{
 .location i{
     font-size: 60px;
     margin-right: 20px;
-    color: #015236;
+    color: #28145e;
 }
 .location span{
     line-height: 22px;
@@ -655,7 +655,7 @@ footer .footerA{
     text-decoration: none;
 }
 .location span a:hover{
-    color: #015236;
+    color: #28145e;
     padding-left: 5px;
 }
 .staff{
@@ -668,14 +668,14 @@ footer .footerA{
     color: #E6FFF6;
 }
 .staff .socials a{
-    color: #015236;
+    color: #28145e;
     font-size: 28px;
     margin-right: 5px;
 }
 footer .footerC{
     padding-top: 10px;
     font-size: 13px;
-    color: #d8ae8c;
+    color: #1DA1F2;
     font-weight: 400;
 }
 footer .footerB{
@@ -708,7 +708,7 @@ iframe{
         left: 0;
         right: 0;
         position:fixed;
-        background: #D96D1C;
+        background: #1DA1F2;
         z-index: 10;
         flex-direction: column;
         justify-content: center;
@@ -775,7 +775,7 @@ iframe{
     .sectionA .line{
         width: 80px;
         height: 1px;
-        background-color: #D96D1C;
+        background-color: #1DA1F2;
         margin-bottom: 4px;
     }
     .sectionA p{
@@ -1020,7 +1020,7 @@ iframe{
     .news a:hover{
         padding: 6px 10px;
         font-size: 18px;
-        border: 1.5px solid #D96D1C;
+        border: 1.5px solid #28145e;
         border-radius: 10px;
     }
     .news_content{
@@ -1099,7 +1099,7 @@ iframe{
     }
     .text input{
         width: 100%;
-        border: 1px solid #D96D1C;
+        border: 1px solid #28145e;
         outline: none;
         height: 50px;
         margin-bottom: 16px;
@@ -1115,7 +1115,7 @@ iframe{
     .text textarea{
         width: 100%;
         padding: 0px 20px;
-        border: 1px solid #D96D1C;
+        border: 1px solid #28145e;
         outline: none;
         font-size: 15px;
         margin-bottom: 15px;
@@ -1123,7 +1123,7 @@ iframe{
     }
     .text label{
         font-size: 20px;
-        color: #015236;
+        color: #28145e;
         font-weight: 500;
         font-family: 'Times New Roman', Times, serif;
     }
@@ -1133,12 +1133,12 @@ iframe{
         border: unset;
         height: 50px;
         font-size: 20px;
-        background-color: #015236;
+        background-color: #28145e;
         color: #E6FFF6;
         cursor: pointer;
     }
     .text input[type=submit]:hover{
-        background-color:  #017e52;
+        background-color:  #28145e;
     }
     .art{
         width: 100%;
@@ -1165,7 +1165,7 @@ iframe{
     .location i{
         font-size: 35px;
         margin-right: 10px;
-        color: #015236;
+        color: #28145e;
     }
     .location span{
         line-height: 15px;
@@ -1192,14 +1192,14 @@ iframe{
         color: #E6FFF6;
     }
     .staff .socials a{
-        color: #015236;
+        color: #28145e;
         font-size: 18px;
         margin-right: 2px;
     }
     footer .footerC{
         padding-top: 10px;
         font-size: 8px;
-        color: #d8ae8c;
+        color: #28145e;
         font-weight: 400;
     }
     footer .footerB{
